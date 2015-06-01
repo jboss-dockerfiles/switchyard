@@ -111,7 +111,7 @@ The source is [available on GitHub](https://github.com/jboss-dockerfiles/switchy
 
 ## Version
 
-Current/Latest SwitchYard release is: 2.0.Alpha3
+Current/Latest SwitchYard release is: 2.0.0.Final
 
 ## Issues
 
